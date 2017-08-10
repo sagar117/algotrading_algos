@@ -1,4 +1,4 @@
-# algotrading_algos
+# Algotrading_algos
 
 ##  This repo contains algorithms created by me for high frequency or long term trading.
 
