@@ -12,6 +12,8 @@
 
 ![figure_1](https://user-images.githubusercontent.com/10709662/29187596-f529ffb0-7e2d-11e7-8c9c-0b72d7557e78.png)
 
+##### above result is based on ichimoku trading system.
+
 
 
 
